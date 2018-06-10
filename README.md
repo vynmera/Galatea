@@ -1,3 +1,5 @@
+![Logo](assets/galatea-textual-small-dark.png)
+
 # GALATEA 
 ![](https://img.shields.io/badge/%20-Open%20Source-orange.svg?&style=for-the-badge) ![](https://img.shields.io/badge/%20-Open%20Hardware-green.svg?&style=for-the-badge) 
 
